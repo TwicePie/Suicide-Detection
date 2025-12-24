@@ -131,7 +131,7 @@ pip install -r requirements.txt
 Sistem menyediakan dashboard interaktif untuk memasukkan teks, memilih model, dan langsung melihat prediksi risiko bunuh diri secara berdampingan.
 
 <div align="center">
-      <img src="image/DistilBERT.png" alt="Tampilan Dashboard" width="600">
+      <img src="image/Tampilan.png" alt="Tampilan Dashboard" width="600">
 </div>
 
 ---
