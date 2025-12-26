@@ -58,6 +58,7 @@ Kategori klasifikasi dalam project ini adalah:
 Dataset yang digunakan dalam proyek ini diambil dari platform **Kaggle**:
 - **Judul**: *Suicide and Depression Detection Dataset*.
 - **Konten**: Kumpulan data teks dari Reddit yang telah melalui proses pelabelan manual menjadi kategori "suicide" dan "non-suicide".
+- **Link Dataset**: [https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)
 
 ---
 
@@ -129,6 +130,8 @@ pip install -r requirements.txt
 
 ### Tampilan Aplikasi
 Sistem menyediakan dashboard interaktif untuk memasukkan teks, memilih model, dan langsung melihat prediksi risiko bunuh diri secara berdampingan.
+
+- **Akses Aplikasi Streamlit**: [https://suicide-detection-eonjbnrp3p76ubytpw9upj.streamlit.app/](https://suicide-detection-eonjbnrp3p76ubytpw9upj.streamlit.app/)
 
 <div align="center">
       <img src="image/Tampilan.png" alt="Tampilan Dashboard" width="600">
